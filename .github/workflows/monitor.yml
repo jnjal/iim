@@ -203,5 +203,5 @@ jobs:
           else
             SUMMARY=$(cat api/summary.json | jq -r '"Status: \(.up) up, \(.degraded) degraded, \(.down) down | Overall: \(.overall_status)"' 2>/dev/null || echo "Check complete")
             git commit -m "📊 ${SUMMARY}"
-            git push
+            git push origin main
           fi

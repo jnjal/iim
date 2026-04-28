@@ -2,14 +2,14 @@
   "id": "ripestat-tic-prefixes",
   "name": "TIC Announced Prefixes",
   "check_type": "ripestat",
-  "status": "unknown",
-  "message": "API returned: ",
-  "value": 0,
-  "response_time_ms": 534,
+  "status": "up",
+  "message": "Data available",
+  "value": 100,
+  "response_time_ms": 269,
   "jitter_ms": 0,
-  "http_code": 502,
-  "uptime_pct": 99.09990999099911,
-  "last_check": "2026-04-28T11:30:16Z",
-  "last_check_epoch": 1777375816,
-  "prev_status": "up"
+  "http_code": 200,
+  "uptime_pct": 99.01079136690647,
+  "last_check": "2026-04-28T13:18:53Z",
+  "last_check_epoch": 1777382333,
+  "prev_status": "unknown"
 }

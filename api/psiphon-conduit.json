@@ -1,0 +1,15 @@
+{
+  "id": "psiphon-conduit",
+  "name": "Psiphon Conduit Stats",
+  "check_type": "psiphon_stats",
+  "status": "unknown",
+  "message": "Could not parse stats",
+  "value": 0,
+  "response_time_ms": 278,
+  "jitter_ms": 0,
+  "http_code": 200,
+  "uptime_pct": 1.8083182640144666,
+  "last_check": "2026-04-27T23:15:21Z",
+  "last_check_epoch": 1777331721,
+  "prev_status": "unknown"
+}

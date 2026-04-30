@@ -2,10 +2,10 @@
   "checked_this_run": 60,
   "degraded": 6,
   "down": 69,
-  "last_check": "2026-04-30T06:42:13Z",
-  "last_check_epoch": 1777531333,
+  "last_check": "2026-04-30T09:05:59Z",
+  "last_check_epoch": 1777539959,
   "overall_status": "major_outage",
   "total_services": 103,
-  "unknown": 5,
-  "up": 23
+  "unknown": 4,
+  "up": 24
 }

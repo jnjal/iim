@@ -2,14 +2,14 @@
   "id": "ir-messaging-rubika",
   "name": "Rubika",
   "check_type": "http",
-  "status": "down",
-  "message": "Connection failed (timeout or unreachable)",
-  "value": 0,
-  "response_time_ms": 1164,
+  "status": "up",
+  "message": "HTTP 200",
+  "value": 100,
+  "response_time_ms": 1431,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 80.91042584434655,
-  "last_check": "2026-04-30T09:05:59Z",
-  "last_check_epoch": 1777539959,
-  "prev_status": "up"
+  "uptime_pct": 80.87084148727985,
+  "last_check": "2026-04-30T11:06:10Z",
+  "last_check_epoch": 1777547170,
+  "prev_status": "down"
 }

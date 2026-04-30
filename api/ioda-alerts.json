@@ -5,11 +5,11 @@
   "status": "degraded",
   "message": "2 active alert(s)",
   "value": 2,
-  "response_time_ms": 514,
+  "response_time_ms": 505,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 80.89233753637245,
-  "last_check": "2026-04-30T14:34:27Z",
-  "last_check_epoch": 1777559667,
+  "uptime_pct": 80.8531265147843,
+  "last_check": "2026-04-30T16:10:03Z",
+  "last_check_epoch": 1777565403,
   "prev_status": "degraded"
 }

@@ -5,11 +5,11 @@
   "status": "unknown",
   "message": "Could not parse stats",
   "value": 0,
-  "response_time_ms": 346,
+  "response_time_ms": 336,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 1.7528483786152498,
-  "last_check": "2026-04-30T21:21:34Z",
-  "last_check_epoch": 1777584094,
+  "uptime_pct": 1.7513134851138354,
+  "last_check": "2026-04-30T23:17:16Z",
+  "last_check_epoch": 1777591036,
   "prev_status": "unknown"
 }

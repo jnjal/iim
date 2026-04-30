@@ -9,7 +9,7 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-04-30T12:22:02Z",
-  "last_check_epoch": 1777551722,
+  "last_check": "2026-04-30T19:00:01Z",
+  "last_check_epoch": 1777575601,
   "prev_status": "up"
 }

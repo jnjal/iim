@@ -3,13 +3,13 @@
   "name": "Web Censorship",
   "check_type": "ooni_aggregation",
   "status": "up",
-  "message": "Accessible — 20% anomaly rate (3502 OK)",
-  "value": 20.118613138686133,
-  "response_time_ms": 765,
+  "message": "Accessible — 25% anomaly rate (2597 OK)",
+  "value": 24.724637681159418,
+  "response_time_ms": 477,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 70.42821158690177,
-  "last_check": "2026-04-30T23:17:16Z",
-  "last_check_epoch": 1777591036,
-  "prev_status": "down"
+  "uptime_pct": 70.44310171198389,
+  "last_check": "2026-05-01T00:12:31Z",
+  "last_check_epoch": 1777594351,
+  "prev_status": "up"
 }

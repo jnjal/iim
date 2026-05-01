@@ -5,11 +5,11 @@
   "status": "up",
   "message": "6 probes",
   "value": 6,
-  "response_time_ms": 465,
+  "response_time_ms": 429,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.9028182701652,
-  "last_check": "2026-05-01T12:47:38Z",
-  "last_check_epoch": 1777639658,
+  "uptime_pct": 99.90286546867412,
+  "last_check": "2026-05-01T14:12:18Z",
+  "last_check_epoch": 1777644738,
   "prev_status": "up"
 }

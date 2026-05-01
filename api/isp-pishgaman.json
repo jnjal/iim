@@ -5,11 +5,11 @@
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
   "value": 100,
-  "response_time_ms": 822,
+  "response_time_ms": 434,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.8546511627907,
-  "last_check": "2026-05-01T19:47:58Z",
-  "last_check_epoch": 1777664878,
+  "uptime_pct": 99.8547215496368,
+  "last_check": "2026-05-01T20:39:58Z",
+  "last_check_epoch": 1777667998,
   "prev_status": "up"
 }

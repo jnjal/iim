@@ -4,12 +4,12 @@
   "check_type": "ioda_signal",
   "status": "degraded",
   "message": "Degraded — signal at 52% of normal",
-  "value": 51.57469646195922,
-  "response_time_ms": 4503,
+  "value": 51.78784222726207,
+  "response_time_ms": 425,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 62.72640610104862,
-  "last_check": "2026-05-02T16:30:34Z",
-  "last_check_epoch": 1777739434,
+  "uptime_pct": 62.696522153406384,
+  "last_check": "2026-05-02T17:28:27Z",
+  "last_check_epoch": 1777742907,
   "prev_status": "degraded"
 }

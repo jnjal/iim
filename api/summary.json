@@ -1,9 +1,9 @@
 {
   "checked_this_run": 54,
-  "degraded": 6,
-  "down": 66,
-  "last_check": "2026-05-02T12:12:55Z",
-  "last_check_epoch": 1777723975,
+  "degraded": 7,
+  "down": 65,
+  "last_check": "2026-05-02T18:13:29Z",
+  "last_check_epoch": 1777745609,
   "overall_status": "major_outage",
   "total_services": 103,
   "unknown": 5,

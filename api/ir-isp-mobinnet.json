@@ -8,8 +8,8 @@
   "response_time_ms": 25000,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 18.285172903837044,
-  "last_check": "2026-05-04T01:20:49Z",
-  "last_check_epoch": 1777857649,
+  "uptime_pct": 18.26786559394226,
+  "last_check": "2026-05-04T07:47:01Z",
+  "last_check_epoch": 1777880821,
   "prev_status": "down"
 }

@@ -5,11 +5,11 @@
   "status": "up",
   "message": "Data available",
   "value": 100,
-  "response_time_ms": 297,
+  "response_time_ms": 474,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.29328621908127,
-  "last_check": "2026-05-03T20:07:23Z",
-  "last_check_epoch": 1777838843,
+  "uptime_pct": 99.29577464788733,
+  "last_check": "2026-05-04T04:55:14Z",
+  "last_check_epoch": 1777870514,
   "prev_status": "up"
 }

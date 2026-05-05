@@ -4,12 +4,12 @@
   "check_type": "ooni_aggregation",
   "status": "degraded",
   "message": "Partially blocked — 41% anomaly rate",
-  "value": 41.17647058823529,
-  "response_time_ms": 694,
+  "value": 40.625,
+  "response_time_ms": 527,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 41.62609542356378,
-  "last_check": "2026-05-04T23:03:45Z",
-  "last_check_epoch": 1777935825,
+  "uptime_pct": 41.605839416058394,
+  "last_check": "2026-05-05T00:06:21Z",
+  "last_check_epoch": 1777939581,
   "prev_status": "degraded"
 }

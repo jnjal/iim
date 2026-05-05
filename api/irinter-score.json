@@ -3,13 +3,13 @@
   "name": "irinter.net Score",
   "check_type": "irinter_score",
   "status": "down",
-  "message": "Connection failed (timeout or unreachable)",
-  "value": 0,
-  "response_time_ms": 524,
+  "message": "Poor — network score 1/100",
+  "value": 0.7000000000000028,
+  "response_time_ms": 472,
   "jitter_ms": 0,
   "http_code": 200,
   "uptime_pct": 0,
-  "last_check": "2026-05-05T00:06:21Z",
-  "last_check_epoch": 1777939581,
+  "last_check": "2026-05-05T03:48:56Z",
+  "last_check_epoch": 1777952936,
   "prev_status": "down"
 }

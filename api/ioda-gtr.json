@@ -4,12 +4,12 @@
   "check_type": "ioda_signal",
   "status": "down",
   "message": "Critical — signal at 44% of normal",
-  "value": 44.30555356446393,
-  "response_time_ms": 415,
+  "value": 44.32066214355974,
+  "response_time_ms": 419,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 61.23778501628665,
-  "last_check": "2026-05-05T21:07:23Z",
-  "last_check_epoch": 1778015243,
+  "uptime_pct": 61.20930232558139,
+  "last_check": "2026-05-05T22:14:00Z",
+  "last_check_epoch": 1778019240,
   "prev_status": "down"
 }

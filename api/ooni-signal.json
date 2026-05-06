@@ -5,11 +5,11 @@
   "status": "down",
   "message": "Blocked — 85% anomaly rate (41/48 tests)",
   "value": 85.41666666666666,
-  "response_time_ms": 519,
+  "response_time_ms": 524,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 31.231953801732438,
-  "last_check": "2026-05-06T21:49:42Z",
-  "last_check_epoch": 1778104182,
+  "uptime_pct": 31.216931216931215,
+  "last_check": "2026-05-06T22:38:30Z",
+  "last_check_epoch": 1778107110,
   "prev_status": "down"
 }

@@ -5,11 +5,11 @@
   "status": "up",
   "message": "No active outage alerts",
   "value": 0,
-  "response_time_ms": 617,
+  "response_time_ms": 453,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 80.71395456652758,
-  "last_check": "2026-05-06T13:12:44Z",
-  "last_check_epoch": 1778073164,
+  "uptime_pct": 80.74074074074075,
+  "last_check": "2026-05-06T19:02:40Z",
+  "last_check_epoch": 1778094160,
   "prev_status": "up"
 }

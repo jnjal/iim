@@ -1,11 +1,11 @@
 {
-  "checked_this_run": 61,
+  "checked_this_run": 60,
   "degraded": 4,
-  "down": 67,
-  "last_check": "2026-05-06T13:12:44Z",
-  "last_check_epoch": 1778073164,
+  "down": 66,
+  "last_check": "2026-05-06T19:02:40Z",
+  "last_check_epoch": 1778094160,
   "overall_status": "major_outage",
   "total_services": 103,
   "unknown": 5,
-  "up": 27
+  "up": 28
 }

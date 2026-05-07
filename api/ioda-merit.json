@@ -3,13 +3,13 @@
   "name": "IODA MERIT Telescope",
   "check_type": "ioda_signal",
   "status": "down",
-  "message": "Critical — signal at 11% of normal",
-  "value": 10.934285262102799,
-  "response_time_ms": 329,
+  "message": "Critical — signal at 35% of normal",
+  "value": 34.62523666332553,
+  "response_time_ms": 452,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 64.6189376443418,
-  "last_check": "2026-05-07T01:24:10Z",
-  "last_check_epoch": 1778117050,
-  "prev_status": "degraded"
+  "uptime_pct": 64.55929856945085,
+  "last_check": "2026-05-07T07:38:48Z",
+  "last_check_epoch": 1778139528,
+  "prev_status": "down"
 }

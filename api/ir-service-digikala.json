@@ -3,13 +3,13 @@
   "name": "Digikala",
   "check_type": "http",
   "status": "down",
-  "message": "Connection failed (timeout or unreachable)",
+  "message": "HTTP 403",
   "value": 0,
-  "response_time_ms": 946,
+  "response_time_ms": 1371,
   "jitter_ms": 0,
   "http_code": 403,
-  "uptime_pct": 18.181818181818183,
-  "last_check": "2026-05-07T18:14:22Z",
-  "last_check_epoch": 1778177662,
+  "uptime_pct": 18.173388966156697,
+  "last_check": "2026-05-07T19:58:33Z",
+  "last_check_epoch": 1778183913,
   "prev_status": "down"
 }

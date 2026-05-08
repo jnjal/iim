@@ -3,13 +3,13 @@
   "name": "Tor Snowflake",
   "check_type": "ooni_aggregation",
   "status": "down",
-  "message": "Blocked — 100% anomaly rate (4/4 tests)",
+  "message": "Blocked — 100% anomaly rate (3/3 tests)",
   "value": 100,
-  "response_time_ms": 424,
+  "response_time_ms": 600,
   "jitter_ms": 0,
   "http_code": 200,
   "uptime_pct": 0,
-  "last_check": "2026-05-07T23:16:43Z",
-  "last_check_epoch": 1778195803,
+  "last_check": "2026-05-08T00:12:35Z",
+  "last_check_epoch": 1778199155,
   "prev_status": "down"
 }

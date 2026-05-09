@@ -2,14 +2,14 @@
   "id": "ir-messaging-soroush",
   "name": "Soroush",
   "check_type": "http",
-  "status": "up",
-  "message": "HTTP 200",
-  "value": 100,
-  "response_time_ms": 901,
+  "status": "down",
+  "message": "Connection failed (timeout or unreachable)",
+  "value": 0,
+  "response_time_ms": 8669,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 2.1451392058420815,
-  "last_check": "2026-05-09T20:32:36Z",
-  "last_check_epoch": 1778358756,
-  "prev_status": "down"
+  "uptime_pct": 2.18978102189781,
+  "last_check": "2026-05-09T21:27:54Z",
+  "last_check_epoch": 1778362074,
+  "prev_status": "up"
 }

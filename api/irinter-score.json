@@ -4,12 +4,12 @@
   "check_type": "irinter_score",
   "status": "down",
   "message": "Poor — network score 1/100",
-  "value": 0.6899999999999977,
-  "response_time_ms": 312,
+  "value": 0.7199999999999989,
+  "response_time_ms": 561,
   "jitter_ms": 0,
   "http_code": 200,
   "uptime_pct": 0,
-  "last_check": "2026-05-09T22:09:53Z",
-  "last_check_epoch": 1778364593,
+  "last_check": "2026-05-09T23:06:38Z",
+  "last_check_epoch": 1778367998,
   "prev_status": "down"
 }

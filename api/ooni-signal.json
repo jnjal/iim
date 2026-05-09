@@ -3,13 +3,13 @@
   "name": "Signal Blocking",
   "check_type": "ooni_aggregation",
   "status": "degraded",
-  "message": "Partially blocked — 73% anomaly rate",
-  "value": 73.01587301587301,
-  "response_time_ms": 580,
+  "message": "Partially blocked — 76% anomaly rate",
+  "value": 75.80645161290323,
+  "response_time_ms": 608,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 30.787476280834913,
-  "last_check": "2026-05-08T23:42:34Z",
-  "last_check_epoch": 1778283754,
-  "prev_status": "down"
+  "uptime_pct": 30.77287814129919,
+  "last_check": "2026-05-09T01:26:08Z",
+  "last_check_epoch": 1778289968,
+  "prev_status": "degraded"
 }

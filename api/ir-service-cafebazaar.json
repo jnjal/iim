@@ -5,11 +5,11 @@
   "status": "down",
   "message": "HTTP 503",
   "value": 0,
-  "response_time_ms": 5917,
+  "response_time_ms": 8616,
   "jitter_ms": 0,
   "http_code": 503,
-  "uptime_pct": 14.305239179954443,
-  "last_check": "2026-05-10T00:03:06Z",
-  "last_check_epoch": 1778371386,
+  "uptime_pct": 14.292216659080564,
+  "last_check": "2026-05-10T06:45:27Z",
+  "last_check_epoch": 1778395527,
   "prev_status": "down"
 }

@@ -5,11 +5,11 @@
   "status": "up",
   "message": "Accessible — 15% anomaly rate (40 OK)",
   "value": 14.893617021276595,
-  "response_time_ms": 775,
+  "response_time_ms": 524,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 47.31934731934732,
-  "last_check": "2026-05-11T01:28:13Z",
-  "last_check_epoch": 1778462893,
+  "uptime_pct": 47.34389561975769,
+  "last_check": "2026-05-11T05:35:17Z",
+  "last_check_epoch": 1778477717,
   "prev_status": "up"
 }

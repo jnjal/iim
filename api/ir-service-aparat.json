@@ -5,11 +5,11 @@
   "status": "down",
   "message": "HTTP 504",
   "value": 0,
-  "response_time_ms": 742,
+  "response_time_ms": 780,
   "jitter_ms": 0,
   "http_code": 504,
-  "uptime_pct": 18.066847335140018,
-  "last_check": "2026-05-11T05:35:17Z",
-  "last_check_epoch": 1778477717,
+  "uptime_pct": 18.058690744920995,
+  "last_check": "2026-05-11T08:47:59Z",
+  "last_check_epoch": 1778489279,
   "prev_status": "down"
 }

@@ -2,14 +2,14 @@
   "id": "psiphon-conduit",
   "name": "Psiphon Conduit Stats",
   "check_type": "psiphon_stats",
-  "status": "up",
-  "message": "1765215 active stations",
-  "value": 1765215,
-  "response_time_ms": 39,
+  "status": "unknown",
+  "message": "Could not parse stats",
+  "value": 0,
+  "response_time_ms": 243,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 1.5673981191222568,
-  "last_check": "2026-05-12T11:35:05Z",
-  "last_check_epoch": 1778585705,
-  "prev_status": "unknown"
+  "uptime_pct": 1.644479248238058,
+  "last_check": "2026-05-12T13:26:37Z",
+  "last_check_epoch": 1778592397,
+  "prev_status": "up"
 }

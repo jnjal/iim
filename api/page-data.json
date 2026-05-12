@@ -1,4 +1,4 @@
-{"generated":"2026-05-12T09:31:19Z","services":[
+{"generated":"2026-05-12T11:36:10Z","services":[
 {
   "id": "1",
   "name": "217.218.155.155:53",
@@ -10,8 +10,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -26,8 +26,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -42,8 +42,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -58,8 +58,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -74,8 +74,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -90,8 +90,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -106,8 +106,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -122,8 +122,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -138,8 +138,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -154,8 +154,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -170,8 +170,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -186,8 +186,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -202,8 +202,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -218,8 +218,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -234,8 +234,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -250,8 +250,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -266,8 +266,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -282,8 +282,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -298,8 +298,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -314,8 +314,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -330,8 +330,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -346,8 +346,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -362,8 +362,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -378,8 +378,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -394,8 +394,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -410,8 +410,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -426,8 +426,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -442,8 +442,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "unknown"
 }
 ,
@@ -454,12 +454,12 @@
   "status": "up",
   "message": "No active outage alerts",
   "value": 0,
-  "response_time_ms": 258,
+  "response_time_ms": 536,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 81.42857142857143,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 81.43685854529228,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -469,12 +469,12 @@
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
   "value": 100,
-  "response_time_ms": 631,
+  "response_time_ms": 783,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86607142857142,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.8661311914324,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -482,14 +482,14 @@
   "name": "IODA Google Traffic",
   "check_type": "ioda_signal",
   "status": "up",
-  "message": "Healthy — signal at 82% of normal",
-  "value": 82.26476766386655,
-  "response_time_ms": 404,
+  "message": "Healthy — signal at 83% of normal",
+  "value": 82.98680965288162,
+  "response_time_ms": 771,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 60,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 60.01784917447568,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -499,12 +499,12 @@
   "status": "unknown",
   "message": "No signal data",
   "value": 0,
-  "response_time_ms": 715,
+  "response_time_ms": 998,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 0.045004500450045004,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 0.0449842555105713,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "unknown"
 },
 {
@@ -514,12 +514,12 @@
   "status": "unknown",
   "message": "No signal data",
   "value": 0,
-  "response_time_ms": 468,
+  "response_time_ms": 863,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 0.045004500450045004,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 0.0449842555105713,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "unknown"
 },
 {
@@ -529,12 +529,12 @@
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
   "value": 100,
-  "response_time_ms": 637,
+  "response_time_ms": 739,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 64.15178571428571,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 64.16778224007139,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -544,12 +544,12 @@
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
   "value": 100,
-  "response_time_ms": 721,
+  "response_time_ms": 745,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 82.32142857142857,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 82.32931726907631,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -559,12 +559,12 @@
   "status": "down",
   "message": "HTTP 403",
   "value": 0,
-  "response_time_ms": 741,
+  "response_time_ms": 10481,
   "jitter_ms": 0,
   "http_code": 403,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -577,9 +577,9 @@
   "response_time_ms": 25000,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 16.68165467625899,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 16.674157303370787,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -589,12 +589,12 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 10009,
+  "response_time_ms": 10004,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 15.647482014388489,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 15.640449438202248,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -604,12 +604,12 @@
   "status": "up",
   "message": "HTTP 200",
   "value": 100,
-  "response_time_ms": 6056,
+  "response_time_ms": 1974,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.50539568345323,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.50561797752809,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -619,12 +619,12 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 1742,
+  "response_time_ms": 3196,
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -637,9 +637,9 @@
   "response_time_ms": 25000,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 17.58093525179856,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 17.573033707865168,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -649,12 +649,12 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 25001,
+  "response_time_ms": 25000,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 17.715827338129497,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 17.707865168539325,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -667,9 +667,9 @@
   "response_time_ms": 25000,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 17.35611510791367,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 17.34831460674157,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -679,12 +679,12 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 25000,
+  "response_time_ms": 25001,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 17.940647482014388,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 17.93258426966292,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -694,12 +694,12 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 25008,
+  "response_time_ms": 25007,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 17.940647482014388,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 17.93258426966292,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -709,12 +709,12 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 5776,
+  "response_time_ms": 5252,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 26.888489208633093,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 26.876404494382022,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -724,12 +724,12 @@
   "status": "up",
   "message": "HTTP 200",
   "value": 100,
-  "response_time_ms": 901,
+  "response_time_ms": 925,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 23.785971223021583,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 23.820224719101123,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -739,28 +739,28 @@
   "status": "up",
   "message": "HTTP 200",
   "value": 100,
-  "response_time_ms": 1261,
+  "response_time_ms": 1516,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 82.41906474820144,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 82.42696629213484,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
   "id": "ir-messaging-soroush",
   "name": "Soroush",
   "check_type": "http",
-  "status": "up",
-  "message": "HTTP 200",
-  "value": 100,
-  "response_time_ms": 892,
+  "status": "down",
+  "message": "Connection failed (timeout or unreachable)",
+  "value": 0,
+  "response_time_ms": 5819,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 2.2032374100719423,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
-  "prev_status": "down"
+  "uptime_pct": 2.247191011235955,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
+  "prev_status": "up"
 },
 {
   "id": "ir-regional-pishgaman-shiraz",
@@ -772,9 +772,9 @@
   "response_time_ms": 25000,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 0.44964028776978415,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 0.44943820224719105,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -784,12 +784,12 @@
   "status": "down",
   "message": "HTTP 504",
   "value": 0,
-  "response_time_ms": 773,
+  "response_time_ms": 623,
   "jitter_ms": 0,
   "http_code": 504,
-  "uptime_pct": 17.985611510791365,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 17.97752808988764,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -799,12 +799,12 @@
   "status": "down",
   "message": "HTTP 503",
   "value": 0,
-  "response_time_ms": 10738,
+  "response_time_ms": 10329,
   "jitter_ms": 0,
   "http_code": 503,
-  "uptime_pct": 14.118705035971225,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 14.112359550561798,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -814,12 +814,12 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 1379,
+  "response_time_ms": 1719,
   "jitter_ms": 0,
   "http_code": 403,
-  "uptime_pct": 17.62589928057554,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 17.617977528089888,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -832,9 +832,9 @@
   "response_time_ms": 25000,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 2.2931654676258995,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 2.292134831460674,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -844,12 +844,12 @@
   "status": "down",
   "message": "HTTP 403",
   "value": 0,
-  "response_time_ms": 599,
+  "response_time_ms": 2824,
   "jitter_ms": 0,
   "http_code": 403,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -859,12 +859,12 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 6833,
+  "response_time_ms": 5378,
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -878,8 +878,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -894,8 +894,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -910,8 +910,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -926,8 +926,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -942,8 +942,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -958,8 +958,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -974,8 +974,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 4,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -990,8 +990,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1006,8 +1006,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1022,8 +1022,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1038,8 +1038,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1054,8 +1054,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1070,8 +1070,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1086,8 +1086,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1102,8 +1102,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1118,8 +1118,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1134,8 +1134,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1150,8 +1150,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1166,8 +1166,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "down"
 }
 ,
@@ -1182,8 +1182,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "down"
 }
 ,
@@ -1198,8 +1198,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1214,8 +1214,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1230,8 +1230,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1246,8 +1246,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1262,8 +1262,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1278,8 +1278,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1294,8 +1294,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1310,8 +1310,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1326,8 +1326,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1342,8 +1342,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1358,8 +1358,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1374,8 +1374,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1390,8 +1390,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1406,8 +1406,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1422,8 +1422,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1438,8 +1438,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1454,8 +1454,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1470,8 +1470,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1486,8 +1486,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1502,8 +1502,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1518,8 +1518,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1534,8 +1534,8 @@
   "jitter_ms": 0,
   "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:27:23Z",
-  "last_check_epoch": 1778578043,
+  "last_check": "2026-05-12T11:32:03Z",
+  "last_check_epoch": 1778585523,
   "prev_status": "up"
 }
 ,
@@ -1549,9 +1549,9 @@
   "response_time_ms": 25000,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 12.859712230215829,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 12.853932584269662,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -1561,12 +1561,12 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 25000,
+  "response_time_ms": 25001,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 0.1798561151079137,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 0.1797752808988764,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -1579,9 +1579,9 @@
   "response_time_ms": 25000,
   "jitter_ms": 0,
   "http_code": 0,
-  "uptime_pct": 10.611510791366907,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 10.606741573033709,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -1590,13 +1590,13 @@
   "check_type": "irinter_score",
   "status": "down",
   "message": "Poor — network score 1/100",
-  "value": 0.8199999999999932,
-  "response_time_ms": 438,
+  "value": 0.7199999999999989,
+  "response_time_ms": 625,
   "jitter_ms": 0,
   "http_code": 200,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -1606,12 +1606,12 @@
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
   "value": 100,
-  "response_time_ms": 928,
+  "response_time_ms": 1272,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.81998199819982,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.82006297795772,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1621,12 +1621,12 @@
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
   "value": 100,
-  "response_time_ms": 928,
+  "response_time_ms": 684,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86498649864987,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.86504723346829,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1636,12 +1636,12 @@
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
   "value": 100,
-  "response_time_ms": 835,
+  "response_time_ms": 771,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86498649864987,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.86504723346829,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1650,13 +1650,13 @@
   "check_type": "ioda_signal",
   "status": "up",
   "message": "Healthy — signal at 99% of normal",
-  "value": 99.45748782545758,
-  "response_time_ms": 667,
+  "value": 99.45271406274641,
+  "response_time_ms": 784,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86498649864987,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.86504723346829,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1665,13 +1665,13 @@
   "check_type": "ioda_signal",
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
-  "value": 99.87228940167584,
-  "response_time_ms": 464,
+  "value": 99.85989198649658,
+  "response_time_ms": 1267,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86498649864987,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.86504723346829,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1681,12 +1681,12 @@
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
   "value": 100,
-  "response_time_ms": 554,
+  "response_time_ms": 966,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86498649864987,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.86504723346829,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1695,13 +1695,13 @@
   "check_type": "ioda_signal",
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
-  "value": 99.98975976363191,
-  "response_time_ms": 559,
+  "value": 99.98934177610025,
+  "response_time_ms": 804,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86498649864987,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.86504723346829,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1710,13 +1710,13 @@
   "check_type": "ioda_signal",
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
-  "value": 99.9992856598598,
-  "response_time_ms": 928,
+  "value": 99.99929704195253,
+  "response_time_ms": 1034,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86498649864987,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.86504723346829,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1726,12 +1726,12 @@
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
   "value": 100,
-  "response_time_ms": 554,
+  "response_time_ms": 1087,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.81998199819982,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.82006297795772,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1740,13 +1740,13 @@
   "check_type": "ioda_signal",
   "status": "up",
   "message": "Healthy — signal at 100% of normal",
-  "value": 99.99926472428724,
-  "response_time_ms": 928,
+  "value": 99.99906091143934,
+  "response_time_ms": 1020,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86498649864987,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.86504723346829,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1756,12 +1756,12 @@
   "status": "unknown",
   "message": "No measurement data",
   "value": 0,
-  "response_time_ms": 691,
+  "response_time_ms": 1037,
   "jitter_ms": 0,
   "http_code": 200,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "unknown"
 },
 {
@@ -1771,12 +1771,12 @@
   "status": "up",
   "message": "Accessible — 3% anomaly rate (70 OK)",
   "value": 2.7777777777777777,
-  "response_time_ms": 694,
+  "response_time_ms": 1156,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 84.17687799680341,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 84.185303514377,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1786,12 +1786,12 @@
   "status": "up",
   "message": "Accessible — 21% anomaly rate (62 OK)",
   "value": 20.51282051282051,
-  "response_time_ms": 696,
+  "response_time_ms": 1031,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 44.29499072356215,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 44.32081594807603,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1801,12 +1801,12 @@
   "status": "degraded",
   "message": "Partially blocked — 57% anomaly rate",
   "value": 57.35294117647059,
-  "response_time_ms": 692,
+  "response_time_ms": 1069,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 50.231910946196656,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 50.208623087621696,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "degraded"
 },
 {
@@ -1816,12 +1816,12 @@
   "status": "degraded",
   "message": "Partially blocked — 78% anomaly rate",
   "value": 78.2051282051282,
-  "response_time_ms": 674,
+  "response_time_ms": 1065,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 30.102040816326532,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 30.088085303662492,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "degraded"
 },
 {
@@ -1831,12 +1831,12 @@
   "status": "up",
   "message": "Accessible — 21% anomaly rate (42 OK)",
   "value": 20.754716981132077,
-  "response_time_ms": 693,
+  "response_time_ms": 1142,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 43.08905380333952,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 43.11543810848401,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1846,12 +1846,12 @@
   "status": "up",
   "message": "Accessible — 18% anomaly rate (42 OK)",
   "value": 17.647058823529413,
-  "response_time_ms": 691,
+  "response_time_ms": 1016,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 89.0074211502783,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 89.01251738525731,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1861,12 +1861,12 @@
   "status": "down",
   "message": "Blocked — 100% anomaly rate (5/5 tests)",
   "value": 100,
-  "response_time_ms": 695,
+  "response_time_ms": 1006,
   "jitter_ms": 0,
   "http_code": 200,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "down"
 },
 {
@@ -1876,12 +1876,12 @@
   "status": "up",
   "message": "Accessible — 29% anomaly rate (2390 OK)",
   "value": 28.953626634958386,
-  "response_time_ms": 192,
+  "response_time_ms": 1070,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 70.22263450834879,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 70.2364394993046,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1891,27 +1891,27 @@
   "status": "up",
   "message": "Accessible — 15% anomaly rate (44 OK)",
   "value": 15.384615384615385,
-  "response_time_ms": 695,
+  "response_time_ms": 904,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 47.58812615955473,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 47.61242466388503,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
   "id": "psiphon-conduit",
   "name": "Psiphon Conduit Stats",
   "check_type": "psiphon_stats",
-  "status": "unknown",
-  "message": "Could not parse stats",
-  "value": 0,
-  "response_time_ms": 262,
+  "status": "up",
+  "message": "1765215 active stations",
+  "value": 1765215,
+  "response_time_ms": 39,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 1.5686274509803921,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 1.5673981191222568,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "unknown"
 },
 {
@@ -1921,12 +1921,12 @@
   "status": "unknown",
   "message": "Could not parse stats",
   "value": 0,
-  "response_time_ms": 216,
+  "response_time_ms": 219,
   "jitter_ms": 0,
   "http_code": 200,
   "uptime_pct": 0,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "unknown"
 },
 {
@@ -1936,12 +1936,12 @@
   "status": "up",
   "message": "89 probes",
   "value": 89,
-  "response_time_ms": 367,
+  "response_time_ms": 488,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.81998199819982,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.82006297795772,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1951,12 +1951,12 @@
   "status": "up",
   "message": "8 probes",
   "value": 8,
-  "response_time_ms": 403,
+  "response_time_ms": 557,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.86498649864987,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.86504723346829,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1981,12 +1981,12 @@
   "status": "up",
   "message": "Data available",
   "value": 100,
-  "response_time_ms": 3640,
+  "response_time_ms": 537,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.05882352941177,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.05956112852664,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -1996,12 +1996,12 @@
   "status": "up",
   "message": "Data available",
   "value": 100,
-  "response_time_ms": 176,
+  "response_time_ms": 518,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.13725490196079,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.13793103448276,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -2011,12 +2011,12 @@
   "status": "up",
   "message": "76 estimated users",
   "value": 76,
-  "response_time_ms": 546,
+  "response_time_ms": 504,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.29411764705883,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.29467084639498,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 },
 {
@@ -2026,24 +2026,24 @@
   "status": "up",
   "message": "75 estimated users",
   "value": 75,
-  "response_time_ms": 544,
+  "response_time_ms": 460,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.2156862745098,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "uptime_pct": 99.21630094043887,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "prev_status": "up"
 }],
 "summary":
 {
-  "checked_this_run": 61,
+  "checked_this_run": 60,
   "degraded": 2,
-  "down": 64,
-  "last_check": "2026-05-12T09:30:25Z",
-  "last_check_epoch": 1778578225,
+  "down": 65,
+  "last_check": "2026-05-12T11:35:05Z",
+  "last_check_epoch": 1778585705,
   "overall_status": "major_outage",
   "total_services": 103,
-  "unknown": 5,
+  "unknown": 4,
   "up": 32
 },"categories":
 [

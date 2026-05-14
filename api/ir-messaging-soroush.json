@@ -5,11 +5,11 @@
   "status": "down",
   "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 825,
+  "response_time_ms": 1018,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 2.218278615794144,
-  "last_check": "2026-05-14T22:47:13Z",
-  "last_check_epoch": 1778798833,
+  "uptime_pct": 2.2172949002217295,
+  "last_check": "2026-05-14T23:43:55Z",
+  "last_check_epoch": 1778802235,
   "prev_status": "down"
 }

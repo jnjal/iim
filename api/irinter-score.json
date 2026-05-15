@@ -5,11 +5,11 @@
   "status": "down",
   "message": "Poor — network score 1/100",
   "value": 0.9000000000000057,
-  "response_time_ms": 590,
+  "response_time_ms": 522,
   "jitter_ms": 0,
   "http_code": 200,
   "uptime_pct": 0,
-  "last_check": "2026-05-15T15:29:37Z",
-  "last_check_epoch": 1778858977,
+  "last_check": "2026-05-15T17:13:14Z",
+  "last_check_epoch": 1778865194,
   "prev_status": "down"
 }

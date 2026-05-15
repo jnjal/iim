@@ -5,11 +5,11 @@
   "status": "degraded",
   "message": "Partially blocked — 76% anomaly rate",
   "value": 75.90361445783132,
-  "response_time_ms": 537,
+  "response_time_ms": 705,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 29.580674567000916,
-  "last_check": "2026-05-15T17:13:14Z",
-  "last_check_epoch": 1778865194,
+  "uptime_pct": 29.56719817767654,
+  "last_check": "2026-05-15T18:57:03Z",
+  "last_check_epoch": 1778871423,
   "prev_status": "degraded"
 }

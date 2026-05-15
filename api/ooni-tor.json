@@ -3,13 +3,13 @@
   "name": "Tor Reachability",
   "check_type": "ooni_aggregation",
   "status": "up",
-  "message": "Accessible — 16% anomaly rate (48 OK)",
-  "value": 15.789473684210526,
-  "response_time_ms": 601,
+  "message": "Accessible — 16% anomaly rate (49 OK)",
+  "value": 15.517241379310345,
+  "response_time_ms": 758,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 89.1433806688044,
-  "last_check": "2026-05-14T18:56:19Z",
-  "last_check_epoch": 1778784979,
-  "prev_status": "up"
+  "uptime_pct": 89.12248628884826,
+  "last_check": "2026-05-15T01:34:24Z",
+  "last_check_epoch": 1778808864,
+  "prev_status": "unknown"
 }

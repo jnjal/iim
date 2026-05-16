@@ -5,11 +5,11 @@
   "status": "unknown",
   "message": "No signal data",
   "value": 0,
-  "response_time_ms": 618,
+  "response_time_ms": 666,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 0.044111160123511246,
-  "last_check": "2026-05-16T04:47:43Z",
-  "last_check_epoch": 1778906863,
+  "uptime_pct": 0.04409171075837742,
+  "last_check": "2026-05-16T07:10:48Z",
+  "last_check_epoch": 1778915448,
   "prev_status": "unknown"
 }

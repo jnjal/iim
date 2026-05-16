@@ -5,11 +5,11 @@
   "status": "up",
   "message": "79 estimated users",
   "value": 79,
-  "response_time_ms": 354,
+  "response_time_ms": 487,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.3161094224924,
-  "last_check": "2026-05-16T01:23:49Z",
-  "last_check_epoch": 1778894629,
+  "uptime_pct": 99.31714719271623,
+  "last_check": "2026-05-16T07:10:48Z",
+  "last_check_epoch": 1778915448,
   "prev_status": "up"
 }

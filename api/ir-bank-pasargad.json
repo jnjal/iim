@@ -3,13 +3,13 @@
   "name": "Pasargad Bank",
   "check_type": "http",
   "status": "down",
-  "message": "HTTP 403",
+  "message": "Connection failed (timeout or unreachable)",
   "value": 0,
-  "response_time_ms": 998,
+  "response_time_ms": 13624,
   "jitter_ms": 0,
-  "http_code": 403,
+  "http_code": 0,
   "uptime_pct": 0,
-  "last_check": "2026-05-17T07:21:32Z",
-  "last_check_epoch": 1779002492,
+  "last_check": "2026-05-17T09:19:38Z",
+  "last_check_epoch": 1779009578,
   "prev_status": "down"
 }

@@ -5,11 +5,11 @@
   "status": "down",
   "message": "HTTP 403",
   "value": 0,
-  "response_time_ms": 11253,
+  "response_time_ms": 5951,
   "jitter_ms": 0,
   "http_code": 403,
   "uptime_pct": 0,
-  "last_check": "2026-05-17T17:39:55Z",
-  "last_check_epoch": 1779039595,
+  "last_check": "2026-05-17T18:45:45Z",
+  "last_check_epoch": 1779043545,
   "prev_status": "down"
 }

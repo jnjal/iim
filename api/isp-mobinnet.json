@@ -4,12 +4,12 @@
   "check_type": "ioda_signal",
   "status": "up",
   "message": "Healthy — signal at 99% of normal",
-  "value": 98.58805320555172,
-  "response_time_ms": 550,
+  "value": 98.58479434941057,
+  "response_time_ms": 574,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 99.8699609882965,
-  "last_check": "2026-05-18T22:44:29Z",
-  "last_check_epoch": 1779144269,
+  "uptime_pct": 99.87001733102254,
+  "last_check": "2026-05-18T23:50:15Z",
+  "last_check_epoch": 1779148215,
   "prev_status": "up"
 }

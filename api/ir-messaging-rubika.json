@@ -5,11 +5,11 @@
   "status": "up",
   "message": "HTTP 200",
   "value": 100,
-  "response_time_ms": 1115,
+  "response_time_ms": 1260,
   "jitter_ms": 0,
   "http_code": 200,
-  "uptime_pct": 83.05158214130905,
-  "last_check": "2026-05-18T20:20:17Z",
-  "last_check_epoch": 1779135617,
+  "uptime_pct": 83.05892547660312,
+  "last_check": "2026-05-18T21:44:44Z",
+  "last_check_epoch": 1779140684,
   "prev_status": "up"
 }
